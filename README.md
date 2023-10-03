@@ -1,18 +1,20 @@
-## 👋 Welcome to my GitHub!
-#### ABOUT ME
-- 🚀 Well-rounded Full Stack Software Engineer making his way into the circuitry of tech by way of science  
-- 🌱 Currently exploring Nuxt 3, Vue.js, Java, Bash  
-- 👀 Open to opportunities to collaborate  
+## 👋 Welcome to my GitHub!  
+
+#### ABOUT ME  
+
+> 🚀 Well-rounded Full Stack Software Engineer making his way into the circuitry of tech by way of science  
+> 🌱 Currently exploring Nuxt 3, Vue.js, Java, Bash  
+> 👀 Open to opportunities to collaborate  
 ---
 #### TECH
 
-`Languages` Python, JavaScript, TypeScript, SQL, HTML5, CSS3  
-`Frameworks` React, Nuxt 3, Vue.js, Strapi, Django, FastAPI
+`LANGUAGES` Python, JavaScript, TypeScript, SQL, HTML5, CSS3  
+`FRAMEWORKS` React, Nuxt 3, Vue.js, Strapi, Django, FastAPI
 
 ---
 #### CONTACT
-- 📆 [Book a meeting](https://calendly.com/imgta "Let's chat!") with me!
----
+- 📆 Want to collaborate? Let's [chat](https://calendly.com/imgta "Let's chat!")!  
+
 <sub>🙋‍♂️ Psst! I'm [looking for work](https://www.linkedin.com/in/gordonta/ "Connect with me!")!</sub>
 
 <!---
