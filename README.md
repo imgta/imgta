@@ -2,7 +2,7 @@
 
 #### ABOUT ME  
 
-> 🚀 Well-rounded Full Stack Software Engineer making his way into the circuitry of tech by way of science  
+> 🚀 Full Stack Software Engineer making his way into the circuitry of tech by way of science  
 > 🌱 Currently exploring Nuxt 3, Vue.js, Java, Bash  
 > 👀 Open to opportunities to collaborate  
 ---
