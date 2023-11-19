@@ -3,13 +3,13 @@
 #### ABOUT ME  
 
 > 🚀 Full Stack Software Engineer integrated into the circuitry of tech by way of science  
-> 🌱 Currently exploring Nuxt 3, Vue.js, Java, Bash  
+> 🌱 Currently exploring AI pipelines
 > 😎 Open to opportunities to collaborate  
 ---
 #### TECH
 
 `LANGUAGES` Python, JavaScript, TypeScript, SQL, HTML5, CSS3  
-`FRAMEWORKS` React, Nuxt 3, Vue.js, Strapi, Django, FastAPI
+`FRAMEWORKS` React, Nuxt 3, Vue.js, Strapi, Django, FastAPI, Streamlit
 
 ---
 #### CONTACT
