@@ -1,4 +1,4 @@
-## 👋 Welcome to my GitHub!  
+## 🐱‍💻 Welcome to my GitHub!  
 
 #### ABOUT ME  
 
@@ -13,7 +13,7 @@
 
 ---
 #### CONTACT
-- 📆 Want to collaborate? Let's [chat](https://calendly.com/imgta "Let's chat!")!  
+📆 Want to collaborate? Let's [chat](https://calendly.com/imgta "Let's chat!")!  
 
 <!---
 <sub>🙋‍♂️ Psst! I'm [looking for work](https://www.linkedin.com/in/gordonta/ "Connect with me!")!</sub>
