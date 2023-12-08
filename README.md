@@ -3,8 +3,8 @@
 #### ABOUT ME  
 
 > 🚀 Full Stack Software Engineer integrated into the circuitry of tech by way of science  
-> 🌱 Onion architecture, AI pipelines, data aggregation  
-> 😎 Open to opportunities to collaborate  
+> 🌱 AI pipelines, data transformation, vector embeddings  
+> 🤗 Open to opportunities to collaborate  
 ---
 #### TECH
 
