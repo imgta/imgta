@@ -9,7 +9,7 @@
 #### TECH
 
 `LANGUAGES` Python, JavaScript, TypeScript, SQL, HTML, CSS  
-`FRAMEWORKS` React, Nuxt, Vue.js, Strapi, Django, FastAPI, Streamlit
+`FRAMEWORKS` React, Vue.js, Nuxt, Strapi, FastAPI, Django, Streamlit
 
 ---
 #### CONTACT
