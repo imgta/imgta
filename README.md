@@ -1,5 +1,5 @@
 ## 🐱‍💻 Welcome to my GitHub!  
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fimgta&label=Visitors&countColor=%236d3fc0&style=flat&labelStyle=lower)
 #### ABOUT ME  
 
 > 🚀 Full Stack Software Engineer integrated into the circuitry of tech by way of science  
@@ -13,7 +13,7 @@
 
 ---
 #### CONTACT
-📆 Want to collaborate? Let's [chat](https://cal.com/gordonta "Let's chat!")!  
+📆 Want to [collaborate](https://cal.com/gordonta "Let's chat!")?  
 
 <!---
 <sub>🙋‍♂️ Psst! I'm [looking for work](https://www.linkedin.com/in/gordonta/ "Connect with me!")!</sub>
