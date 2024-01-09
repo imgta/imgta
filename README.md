@@ -3,7 +3,7 @@
 ### ABOUT ME  
 
 > 🚀 Full Stack Software Engineer integrated into the circuitry of tech by way of science  
-> 🌱 Exploring AI pipelines, data transformation, vector embeddings  
+> 🌱 Currently exploring AI pipelines, vector databases, cloud VPS, and Jenkins  
 > 🤗 Open to opportunities to collaborate  
 ---
 ##### Languages:
@@ -35,7 +35,7 @@
 
 ---
 ### CONTACT
-📆 Let's [collaborate](https://cal.com/gordonta "Let's chat!")?  
+📆 Let's [collaborate](https://cal.com/gordonta "Let's chat!")!  
 
 <!---
 <sub>🙋‍♂️ Psst! I'm [looking for work](https://www.linkedin.com/in/gordonta/ "Connect with me!")!</sub>
