@@ -44,11 +44,13 @@
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://github.com/imgta/imgta/assets/126015138/23c66368-8937-408a-998c-34f1af45e78f" height="39" alt="Jenkins" /></a>
 </p>
 
-<div align="left"><h2><samp>ABOUT ME</samp></h2></div>
+<div align="left"><h2><samp>ABOUT ME</samp></h2>
 
 > 🚀 Full Stack Software Engineer integrated into the circuitry of tech by way of science  
 > 🌱 Currently exploring serverless cloud, vector databases, CI/CD integrations  
 > 🤗 Open to opportunities to collaborate
+
+</div>
 <p align="right">📆 Let's <a href="https://cal.com/gordonta" target="_blank" rel="noreferrer">chat!</a></p>
 
 <!---
