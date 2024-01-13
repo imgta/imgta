@@ -44,7 +44,7 @@
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://github.com/imgta/imgta/assets/126015138/23c66368-8937-408a-998c-34f1af45e78f" height="39" alt="Jenkins" /></a>
 </p>
 
-<div><h2><samp align="left">ABOUT ME</samp></h2></div>
+<div align="left"><h2><samp>ABOUT ME</samp></h2></div>
 
 > 🚀 Full Stack Software Engineer integrated into the circuitry of tech by way of science  
 > 🌱 Currently exploring serverless cloud, vector databases, CI/CD integrations  
