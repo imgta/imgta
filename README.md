@@ -45,9 +45,9 @@
 
 <div align="left"><h2><samp>ABOUT ME</samp></h2>
 
-> 🚀 Full Stack Software Engineer integrated into the circuitry of tech by way of science  
-> 🌱 Currently exploring serverless cloud, vector databases, CI/CD integrations  
-> 🤗 Open to opportunities to collaborate
+> 🚀 Full-Stack Software Engineer based in Boston, MA  
+> 🌱 Currently exploring AI art, user analytics, and maintaining [Video Blog AI](https://videoblog.ai)  
+> 🤗 Open to opportunities to collaborate  
 
 </div>
 <p align="right">📆 Let's <a href="https://cal.com/gordonta" target="_blank" rel="noreferrer">chat!</a></p>
