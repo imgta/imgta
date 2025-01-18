@@ -45,17 +45,13 @@
 
 <div align="left"><h2><samp>ABOUT ME</samp></h2>
 
-> 🚀 Full-Stack Software Engineer based in Boston, MA  
-> 🌱 Currently exploring AI art, user analytics, and maintaining [Video Blog AI](https://videoblog.ai)  
-> 🤗 Open to opportunities to collaborate  
+> 🚀 Full-Stack Software Engineer, Co-Founder at [Video Blog AI](https://videoblog.ai)  
+> 🌱 Exploring contextual RAG tech, SEO content clustering, and serverless infrastructures  
+> 🤗 Open to opportunities to collaborate, based in Boston, MA  
 
 </div>
-<p align="right">📆 Let's <a href="https://cal.com/gordonta" target="_blank" rel="noreferrer">chat!</a></p>
+<p align="right">📆 Let's <a href="https://cal.com/imgta" target="_blank" rel="noreferrer">chat!</a></p>
 
 <!---
 <sub>🙋‍♂️ Psst! I'm [looking for work](https://www.linkedin.com/in/gordonta/ "Connect with me!")!</sub>
---->
-<!---
-imgta/imgta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
