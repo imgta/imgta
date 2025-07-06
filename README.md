@@ -40,7 +40,6 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>&nbsp;
   <a href="https://www.oracle.com/cloud/" target="_blank" rel="noreferrer"><img src="https://github.com/imgta/imgta/assets/126015138/af6b51ee-04f8-4c38-81a3-97893f81bb0b" width="36" height="36" alt="Oracle Cloud" /></a>&nbsp;
   <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://github.com/imgta/imgta/assets/126015138/8d9d1155-4b86-4e06-ae9c-cd351dc1b9f4" width="36" height="36" alt="Cloudflare" /></a>&nbsp;
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>&nbsp;
 </p>
 
 <div align="left"><h2><samp>ABOUT ME</samp></h2>
